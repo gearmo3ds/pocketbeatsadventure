@@ -20,6 +20,8 @@ The original code used SDL but I made it output to a native 16bit framebuffer in
 
 Secondly, I copied and re-used a few files from [Raccoons ate my ticket](https://github.com/SVatG/RaccoonsAteMyTicket) from SVatG's Nordlicht invite demo of last year. In fact this demo is what made me decide to come to evoke and re-discover the demo scene that I had forgotten about for some 25 years. Check out my [old FT2 chiptunes](https://www.youtube.com/watch?v=vPHiHTr8zWc&t=994s) while you are at it.
 
+Yes, copied the Tools/VectorLibrary and the soundtrack/[minivorbis](https://github.com/edubart/minivorbis) for playing the ogg file.
+
 ## Building
 
 If you, like me, use linux and qtcreator then you are good to go.
