@@ -28,6 +28,7 @@ If you, like me, use linux and qtcreator then you are good to go.
 
 Otherwise you'll have to manage on you own.
 
+Depends on devkitpro.
 
 ## The app
 
