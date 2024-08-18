@@ -1,0 +1,3 @@
+#!/bin/sh
+/opt/devkitpro/devkitARM/bin/arm-none-eabi-gdb ./pixel.elf
+
